@@ -56,12 +56,14 @@ python3 scripts/01_render_multi_view_mitsuba.py --config configs/<config file>
 ```
 Please refer to `config_parser` in the script `01_render_multi_view_mitsuba.py` for description of the parameters.
 
-## Outputs
-
-
-## Acknowledgements
-
 ## Citation
 
-This code base was developed as a part of our work PANDORA on multi-view inverse rendering through 
-
+This code base was developed as a part of our work PANDORA on multi-view inverse rendering using polarization cues and implicit neural representations
+```
+@article{dave2022pandora,
+  title={PANDORA: Polarization-Aided Neural Decomposition Of Radiance},
+  author={Dave, Akshat and Zhao, Yongyi and Veeraraghavan, Ashok},
+  journal={arXiv preprint arXiv:2203.13458},
+  year={2022}
+}
+```
