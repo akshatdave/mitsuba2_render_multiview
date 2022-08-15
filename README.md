@@ -15,9 +15,9 @@ Useful for generating data to run the following neural radiance fields-based wor
 
 **1. Pull Mitsuba2 Docker image**
 
-This code implementation requires [Mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) version that has the `polarized plastic` BRDF implemented. The Docker image `akshatdave:mitsuba2_ppolarized_image` contains such a Mitsuba2 distribution and can be downloaded through
+This code implementation requires [Mitsuba2](https://github.com/mitsuba-renderer/mitsuba2) version that has the `polarized plastic` BRDF implemented. The Docker image `akshatdave:mitsuba2_pplastic_image` contains such a Mitsuba2 distribution and can be downloaded through
 ```
-docker pull akshatdave:mitsuba2_ppolarized_image
+docker pull akshatdave:mitsuba2_pplastic_image
 ```
 
 **2. Create Mitsuba2 Docker container**
