@@ -1,0 +1,16 @@
+is_upper_views = True
+is_random_views = False
+is_dither_views = True
+render_name = v01_test
+N_views = 45
+theta_max = 360
+opaque = True
+refl_factor = 0.5
+object_name = blender_ball_buildings
+plot_cues=False
+cam_fov = 45
+N_res = 800
+cam_depth = 1.25
+include_floor=False
+env_map_name=driving_school_1k.hdr
+env_scale=2
