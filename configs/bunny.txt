@@ -11,4 +11,3 @@ plot_cues=False
 cam_fov = 20
 N_res = 800
 cam_depth = 3.0
-alpha_rough = 0.05
